@@ -1,0 +1,18 @@
+
+import "./HeroStyle.css"
+function Hero(props){
+    return(
+    <>
+    <div className={props.jcer}>
+
+    <div className="hero-text">
+    <h1 className="animate animate__animated animate__bounceInUp">{props.title}</h1>
+    
+    </div>
+    </div>
+    </>
+    
+    );
+    
+    }
+    export default Hero;
