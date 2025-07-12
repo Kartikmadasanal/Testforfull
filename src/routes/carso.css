@@ -1,0 +1,47 @@
+.carss{
+
+    padding-top: 30px;
+ 
+}
+
+.carousel .slider-wrapper{
+
+    
+    height: 470px;
+    padding-left: 60px;
+    padding-right: 60px;
+    width: 70%;
+   justify-items: center;
+}
+
+.carousel.thumb{
+    width: 5%;
+    height: 50px;
+}
+
+
+
+
+.kartik{
+
+    background-color: rgb(255, 0, 0);
+    height: 200px;
+    width: 100%;
+  }
+
+
+
+
+
+@media screen and(max-width: 850px) {
+   
+    .carss{
+
+        padding-top: 30px;
+        width: 100%;
+   
+       height: 50%;
+     
+    }
+    
+}
